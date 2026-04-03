@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 function App(){
   return (
    <>
-   <h1 className="text-4xl  text-blue-950 text-center py-10 px-10 bg-blue-100" >StaxTech Internship Website</h1>
+   <h1 className="text-4xl text-blue-950 text-center py-10 px-10 bg-blue-100 font-bold" >StaxTech Insights Blog Platform</h1>
    
    <div className="text-center space-x-5 py-5">
       
